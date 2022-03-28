@@ -59,7 +59,6 @@ import reportWebVitals from './reportWebVitals';
 //   );
 // }
 
-// //なんでこれでできるんじゃ？？？？？
 // function tick(){
 //   ReactDOM.render(
 //     <App />,
