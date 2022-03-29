@@ -1,11 +1,14 @@
-import React from 'react';
+import React, {useEffect, useState} from 'react';
 import ReactDOM from 'react-dom';
 import './index.css';
+import axios from 'axios'
+import Sample from './component/home';
 
-const hoge = <div>hogehoge</div>
+
+const hoho = <div>hogehohgeo</div>;
 
 ReactDOM.render(
-  hoge,
+  <Sample />,
   document.getElementById('root')
 );
 
